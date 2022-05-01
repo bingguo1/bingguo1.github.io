@@ -529,7 +529,7 @@ section {
 .about .image {
   background: url("../img/self_resize.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 500px;
+  min-height: 670px;
 }
 .about .skills-content {
   margin-top: 30px;
